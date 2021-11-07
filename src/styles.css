@@ -111,3 +111,9 @@ h1 {
   margin-right: 20px;
   text-align: left;
 }
+
+.coding-statement {
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
